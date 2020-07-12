@@ -1,0 +1,7 @@
+
+
+
+
+package module6 // import "github.com/pluralsight-projects/golang-cli-playbook/module6"
+
+func FunctionForModule6GoDoc()
